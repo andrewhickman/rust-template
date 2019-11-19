@@ -2,7 +2,7 @@
 name = "{{project-name}}"
 description = "{{project-name}}."
 version = "0.0.0"
-authors = ["Andrew Hickman <andrew.hickman1@sky.com>"]
+authors = ["{{authors}}"]
 repository = "https://github.com/andrewhickman/{{project-name}}"
 documentation = "https://docs.rs/{{project-name}}"
 license = "MIT/Apache-2.0"
